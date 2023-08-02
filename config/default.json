@@ -1,4 +1,4 @@
 {
     "jwtPrivateKey":"",
-    "db":"mongodb+srv://erkanturker:Gulsen010203.@cluster0.btw1e7w.mongodb.net/?retryWrites=true"
+    "db":""
 }
